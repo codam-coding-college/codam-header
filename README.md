@@ -49,9 +49,13 @@ Inside the **Codam clusters** you can easily run:
 ### **Credits**
 
 [@zazard](https://github.com/zazard) - creator
+
 [@alexandregv](https://github.com/alexandregv) - contributor
+
 [@mjacq42](https://github.com/mjacq42) - contributor
+
 [@sungmcho](https://github.com/lordtomi0325) - contributor
+
 [@fclivaz42](https://github.com/fclivaz42) - contributor
 
 [@FreekBes](https://github.com/FreekBes) - adapted for Codam
