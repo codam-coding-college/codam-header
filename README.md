@@ -1,12 +1,12 @@
-# **42 Header**
+# **Codam Header**
 
-42 (Paris)
+Codam (Amsterdam)
 
 ### **Description**
 
-42 standard header for vim editor.
+Codam standard header for vim editor.
 
-![42 header](img/42header.jpg)
+![Codam header](img/42header.jpg)
 
 ### **UNIX Setup**
 
@@ -20,7 +20,7 @@ Add in `~/.zshrc` or `~/.bashrc` (create the files if they do not exist):
 
 ```bash
 export USER='yourLogin'
-export MAIL='yourLogin@student.42.fr'
+export MAIL='yourLogin@student.codam.nl'
 ```
 
 This sets the `USER` abd `MAIL` environment variables across your entire system.
@@ -29,7 +29,7 @@ This sets the `USER` abd `MAIL` environment variables across your entire system.
 
 ```vim
 let g:user42 = 'yourLogin'
-let g:mail42 = 'yourLogin@student.42.fr'
+let g:mail42 = 'yourLogin@student.codam.nl'
 ```
 
 ### **Usage**
@@ -42,17 +42,19 @@ For **Terminator**, right click -> Preferences -> Shortcuts -> change help with 
 
 ### **Note**
 
-Inside the **42 clusters** you can easily run:
+Inside the **Codam clusters** you can easily run:
 
 `$ ./set_header.sh`
 
 ### **Credits**
 
-[@zazard](https://github.com/zazard) - creator  
-[@alexandregv](https://github.com/alexandregv) - contributor  
-[@mjacq42](https://github.com/mjacq42) - contributor  
-[@sungmcho](https://github.com/lordtomi0325) - contributor  
-[@fclivaz42](https://github.com/fclivaz42) - contributor  
+[@zazard](https://github.com/zazard) - creator
+[@alexandregv](https://github.com/alexandregv) - contributor
+[@mjacq42](https://github.com/mjacq42) - contributor
+[@sungmcho](https://github.com/lordtomi0325) - contributor
+[@fclivaz42](https://github.com/fclivaz42) - contributor
+
+[@FreekBes](https://github.com/FreekBes) - adapted for Codam
 
 ### **License**
 
